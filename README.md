@@ -1,5 +1,4 @@
-# 系統分析與設計 第二組
-## 第四周作業 - Case Description Report
+## 系統分析與設計 第四周作業 - Case Description Report
 
 ### 第二組
 | 姓名  | 學號        |
